@@ -12,9 +12,10 @@ Powered by Lei
 ```
 pip install requests apscheduler argparse
 ```
+ [如何获取自己的api_token](https://support.dnspod.cn/Kb/showarticle/tsid/227/)
 ```
 修改文件, 打开dnspod.py,
-修改 API_TOKEN = '登录的token' 为你的API_TOKEN, 方法是id, api_token [如何获取自己的api_token](https://support.dnspod.cn/Kb/showarticle/tsid/227/)
+修改 API_TOKEN = '登录的token' 为你的API_TOKEN, 方法是id, api_token
 ```
 
 ### 2. 使用
